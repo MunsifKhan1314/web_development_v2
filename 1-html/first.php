@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <!-- headings -->
+     <h1></h1>
 </body>
 </html>
