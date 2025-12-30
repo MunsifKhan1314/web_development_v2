@@ -27,7 +27,7 @@
                 background-color: red;
             }
 
-            .hero div {
+            .hero_div {
                 /* display: none; */
                 /* opacity: 0; */
                 /* background-color: red; */
